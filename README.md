@@ -8,7 +8,7 @@ I'm currently interested in creating technologies that **enhance community, empa
 - Tools that foster connection and collaboration
 - Multimodal Experiences
   
-### 🛠 Skills & Tools
+### Skills & Tools
 - **Programming & Tech:** Python, JavaScript, Typescript, React, React Native, C++, C, Next.js, HTML, CSS, Pytorch, SQL
 - **Creative Tools:** Figma, Adobe Creative Suite(Photoshop, Illustrator, Lightroom, Premiere Pro)  
 - **Interests:** Tech Business, Singing, Photography, Nature, Travel
