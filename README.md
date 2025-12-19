@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👩🏾‍💻👩🏾‍🎨👩🏾‍🎤 Hi, I'm Gabriella!
 
-<!--
-**gabugw/gabugw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Stanford student currently studying **computer science, mathematics, and art**.  
+I'm currently interested in creating technologies that **enhance community, empathy, and creativity**.
 
-Here are some ideas to get you started:
+### What I'm Currently Exploring
+- Human Centered AI Experiences
+- Tools that foster connection and collaboration
+- Multimodal Experiences
+  
+### 🛠 Skills & Tools
+- **Programming & Tech:** Python, JavaScript, Typescript, React, React Native, C++, C, Next.js, HTML, CSS, Pytorch, SQL
+- **Creative Tools:** Figma, Adobe Creative Suite(Photoshop, Illustrator, Lightroom, Premiere Pro)  
+- **Interests:** Tech Business, Singing, Photography, Nature, Travel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always interested in projects at the intersection of technology, creativity, and human experience.
