@@ -1,12 +1,6 @@
 ## 👩🏾‍💻👩🏾‍🎨👩🏾‍🎤 Hi, I'm Gabriella!
 
-I'm a Stanford student currently studying **computer science, mathematics, and art**.  
-I'm currently interested in creating technologies that **enhance community, empathy, and creativity**.
-
-### What I'm Currently Exploring
-- Human Centered AI Experiences
-- Tools that foster connection and collaboration
-- Multimodal Experiences
+I'm a Stanford student who is currently interested in creating technologies that **enhance community, empathy, and creativity**.
   
 ### Skills & Tools
 - **Programming & Tech:** Python, JavaScript, Typescript, React, React Native, C++, C, Next.js, HTML, CSS, Pytorch, SQL
